@@ -11,19 +11,19 @@
 
 <br> We got sample Graph : </br>
 ![image](https://user-images.githubusercontent.com/73948605/160301898-5e62d14c-7915-49f0-a84d-a16b4e9a362c.png)
-<br> We are trying to find all shortest paths between node "0" and the rest, so next steps are as follows :
-1
+<br> We are trying to find all shortest paths between node "0" and the rest, so next steps are as follows : </br>
+<br>1</br>
 ![image](https://user-images.githubusercontent.com/73948605/160301988-9783e194-62c0-4d38-85b1-52086b325cc8.png)
-2
+<br>2</br>
 ![image](https://user-images.githubusercontent.com/73948605/160301998-d67b29e7-4bae-4ebc-b8c2-a88cda893275.png)
-3
+<br>3</br>
 ![image](https://user-images.githubusercontent.com/73948605/160302009-a698b277-a9cc-43b3-9320-a27e62178831.png)
-4
+<br>4</br>
 ![image](https://user-images.githubusercontent.com/73948605/160302017-40443e4b-4f0c-408a-96e1-98164af16286.png)
-5
+<br>5</br>
 ![image](https://user-images.githubusercontent.com/73948605/160302022-07ae4e10-db7a-4e69-b3f2-a58de8e219c4.png)
-6
+<br>6</br>
 ![image](https://user-images.githubusercontent.com/73948605/160302030-72e21eca-50d5-4aab-9f75-e6ba5493a68e.png)
-Done - we found all shortest paths between node "0" and the rest using modified Dijkstra's Algorithm. :)
+<br>Done - we found all shortest paths between node "0" and the rest using modified Dijkstra's Algorithm. 😄 </br>
 
 </p>
