@@ -1,5 +1,5 @@
 <h2> Data Structure Project of Graph in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" /> </h2>
-
+<p allign="left">
 <br> Implemented classes : </br>
 <br> &nbsp &nbsp ✔ Node </br>
 <br> &nbsp &nbsp ✔ LinkedList + Queue ( Unecessary to next classes ) </br>
@@ -26,3 +26,4 @@
 ![image](https://user-images.githubusercontent.com/73948605/160302030-72e21eca-50d5-4aab-9f75-e6ba5493a68e.png)
 Done - we found all shortest paths between node "0" and the rest using modified Dijkstra's Algorithm. :)
 
+</p>
